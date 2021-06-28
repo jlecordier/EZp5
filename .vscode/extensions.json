@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "editorconfig.editorconfig",
+        "msjsdiag.debugger-for-chrome",
+        "ms-vscode.vscode-typescript-next",
+        "ms-vsliveshare.vsliveshare",
+        "visualstudioexptteam.vscodeintellicode",
+        "eamodio.gitlens",
+        "github.vscode-pull-request-github"
+    ]
+}

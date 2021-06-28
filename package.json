@@ -2,10 +2,6 @@
   "name": "ezp5",
   "version": "0.1.0",
   "description": "This package aims to be a superset of `p5.js`, by adding useful classes and utilities to make `p5` even easier to use.",
-  "main": "dist/ezp5.js",
-  "scripts": {
-    "test": "echo 'Too lazy to have any test (yet)'"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jlecordier/EZp5.git"
@@ -21,5 +17,18 @@
   "bugs": {
     "url": "https://github.com/jlecordier/EZp5/issues"
   },
-  "homepage": "https://github.com/jlecordier/EZp5#readme"
+  "homepage": "https://github.com/jlecordier/EZp5#readme",
+  "main": "dist/ezp5.js",
+  "scripts": {
+    "test": "echo 'Too lazy to have any test (yet)'"
+  },
+  "dependencies": {
+    "p5": "^1.3.1"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.28.1",
+    "@typescript-eslint/parser": "^4.28.1",
+    "eslint": "^7.29.0",
+    "typescript": "^4.3.4"
+  }
 }
