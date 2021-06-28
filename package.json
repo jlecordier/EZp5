@@ -1,0 +1,25 @@
+{
+  "name": "ezp5",
+  "version": "0.1.0",
+  "description": "This package aims to be a superset of `p5.js`, by adding useful classes and utilities to make `p5` even easier to use.",
+  "main": "dist/ezp5.js",
+  "scripts": {
+    "test": "echo 'Too lazy to have any test (yet)'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlecordier/EZp5.git"
+  },
+  "keywords": [
+    "p5",
+    "p5.js",
+    "WEBGL",
+    "3D"
+  ],
+  "author": "jlecordier",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/jlecordier/EZp5/issues"
+  },
+  "homepage": "https://github.com/jlecordier/EZp5#readme"
+}
